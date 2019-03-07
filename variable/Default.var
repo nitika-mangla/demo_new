@@ -7,4 +7,8 @@
 <keydef keys="UDV1">
 <topicmeta>
 <keywords>
-<keyword>Value 1</keyword></keywords></topicmeta></keydef></map>
+<keyword>Value 1</keyword></keywords></topicmeta></keydef>
+<keydef keys="UDV2">
+<topicmeta>
+<keywords>
+<keyword>Value 2</keyword></keywords></topicmeta></keydef></map>
