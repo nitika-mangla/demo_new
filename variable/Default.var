@@ -3,4 +3,8 @@
 <map>
     
 <title>Variables</title>
-  </map>
+  
+<keydef keys="UDV1">
+<topicmeta>
+<keywords>
+<keyword>Value 1</keyword></keywords></topicmeta></keydef></map>
